@@ -1,4 +1,4 @@
-Patas Amigas - Site de Doação para Animais
+Patas Amigas - Site de Doação para  Animais
 
 Este é um site de doação para ajudar animais em situação de risco. O site foi desenvolvido para facilitar doações via PIX e mostrar casos urgentes de animais que precisam de ajuda.
 
